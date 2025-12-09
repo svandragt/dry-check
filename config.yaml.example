@@ -1,0 +1,4 @@
+latitude: 51.538
+longitude: 0.711
+check_interval: 300  # seconds
+alert_once: true
